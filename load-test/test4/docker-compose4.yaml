@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  master:
+    image: locustio/locust
+    ports:
+     - "60004:8089"
+    volumes:
+      - ./log:/locust/log
+      - ./:/mnt/locust
+    command: -f /mnt/locust/locustfile4.py --master -H http://master:8089  --headless --csv=/mnt/locust/example4 --csv-full-history
+  
+  worker:
+    image: locustio/locust
+    volumes:
+      - ./:/mnt/locust
+    command: -f /mnt/locust/locustfile4.py --worker --master-host master --csv=example4

@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:30304/?post_type=product&paged=3,"RetriesExceeded('http://192.168.100.38:30304/?post_type=product&paged=3', 1, original=timed out)",1
+GET,http://192.168.100.38:30304/?product_cat=men&paged=2,"RetriesExceeded('http://192.168.100.38:30304/?product_cat=men&paged=2', 1, original=timed out)",1
+GET,http://192.168.100.38:30304/?post_type=product&paged=2,"RetriesExceeded('http://192.168.100.38:30304/?post_type=product&paged=2', 1, original=timed out)",1
+GET,http://192.168.100.38:30304/?product_cat=accessories,"RetriesExceeded('http://192.168.100.38:30304/?product_cat=accessories', 1, original=timed out)",1

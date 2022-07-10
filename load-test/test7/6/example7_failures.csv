@@ -1,0 +1,12 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32710/?product_cat=accessories,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=accessories', 1, original=timed out)",7
+GET,http://192.168.100.38:32710/?page_id=59,"RetriesExceeded('http://192.168.100.38:32710/?page_id=59', 1, original=timed out)",5
+GET,http://192.168.100.38:32710/?product_cat=men&paged=2,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=men&paged=2', 1, original=timed out)",7
+GET,http://192.168.100.38:32710/?page_id=60,"RetriesExceeded('http://192.168.100.38:32710/?page_id=60', 1, original=timed out)",2
+GET,http://192.168.100.38:32710/?post_type=product&paged=3,"RetriesExceeded('http://192.168.100.38:32710/?post_type=product&paged=3', 1, original=timed out)",8
+GET,http://192.168.100.38:32710/?post_type=product&paged=2,"RetriesExceeded('http://192.168.100.38:32710/?post_type=product&paged=2', 1, original=timed out)",10
+GET,http://192.168.100.38:32710/?post_type=product,"RetriesExceeded('http://192.168.100.38:32710/?post_type=product', 1, original=timed out)",11
+GET,http://192.168.100.38:32710/?product_cat=women,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=women', 1, original=timed out)",11
+GET,http://192.168.100.38:32710/,"RetriesExceeded('http://192.168.100.38:32710/', 1, original=timed out)",11
+GET,http://192.168.100.38:32710/?product_cat=women&paged=2,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=women&paged=2', 1, original=timed out)",10
+GET,http://192.168.100.38:32710/?product_cat=men,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=men', 1, original=timed out)",8

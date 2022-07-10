@@ -1,0 +1,18 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:31128/index.php/contact/,"BadStatusCode('http://192.168.100.38:31128/index.php/contact/', code=500)",882
+GET,http://192.168.100.38:31128/index.php/reviews/,"BadStatusCode('http://192.168.100.38:31128/index.php/reviews/', code=500)",859
+GET,http://192.168.100.38:31128/index.php/menu/,"BadStatusCode('http://192.168.100.38:31128/index.php/menu/', code=500)",1684
+GET,http://192.168.100.38:31128/index.php/reviews/,"ConnectionRefusedError(111, 'Connection refused')",4
+GET,http://192.168.100.38:31128/index.php/about/,"ConnectionRefusedError(111, 'Connection refused')",7
+GET,http://192.168.100.38:31128/index.php/reviews/,"RetriesExceeded('http://192.168.100.38:31128/index.php/reviews/', 1, original=timed out)",34
+GET,http://192.168.100.38:31128/index.php/,"BadStatusCode('http://192.168.100.38:31128/index.php/', code=500)",2634
+GET,http://192.168.100.38:31128/index.php/contact/,"ConnectionRefusedError(111, 'Connection refused')",5
+GET,http://192.168.100.38:31128/index.php/about/,"RetriesExceeded('http://192.168.100.38:31128/index.php/about/', 1, original=timed out)",65
+GET,http://192.168.100.38:31128/index.php/menu/,"ConnectionRefusedError(111, 'Connection refused')",7
+GET,http://192.168.100.38:31128/index.php/about/,"BadStatusCode('http://192.168.100.38:31128/index.php/about/', code=500)",1707
+GET,http://192.168.100.38:31128/index.php/menu/,"RetriesExceeded('http://192.168.100.38:31128/index.php/menu/', 1, original=timed out)",61
+GET,http://192.168.100.38:31128/index.php/,"ConnectionRefusedError(111, 'Connection refused')",10
+GET,http://192.168.100.38:31128/index.php/contact/,"RetriesExceeded('http://192.168.100.38:31128/index.php/contact/', 1, original=timed out)",30
+GET,http://192.168.100.38:31128/index.php/contact/,"BadStatusCode('http://192.168.100.38:31128/contact/', code=500)",2
+GET,http://192.168.100.38:31128/index.php/,"RetriesExceeded('http://192.168.100.38:31128/index.php/', 1, original=timed out)",100
+GET,http://192.168.100.38:31128/index.php/about/,"BadStatusCode('http://192.168.100.38:31128/about/', code=500)",1

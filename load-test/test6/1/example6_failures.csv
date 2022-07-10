@@ -1,0 +1,9 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:31231/all-courses/,"RetriesExceeded('http://192.168.100.38:31231/all-courses/', 1, original=timed out)",13
+GET,http://192.168.100.38:31231/about/,"RetriesExceeded('http://192.168.100.38:31231/about/', 1, original=timed out)",8
+GET,http://192.168.100.38:31231/index.php/,"RetriesExceeded('http://192.168.100.38:31231/index.php/', 1, original=timed out)",16
+GET,http://192.168.100.38:31231/all-courses/,"BadStatusCode('http://192.168.100.38:31231/all-courses/', code=500)",7576
+GET,http://192.168.100.38:31231/about/,"BadStatusCode('http://192.168.100.38:31231/about/', code=500)",7523
+GET,http://192.168.100.38:31231/index.php/,"BadStatusCode('http://192.168.100.38:31231/index.php/', code=500)",11225
+GET,http://192.168.100.38:31231/contact/,"BadStatusCode('http://192.168.100.38:31231/contact/', code=500)",3741
+GET,http://192.168.100.38:31231/contact/,"RetriesExceeded('http://192.168.100.38:31231/contact/', 1, original=timed out)",7

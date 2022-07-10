@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:31518/?page_id=132,"RetriesExceeded('http://192.168.100.38:31518/?page_id=132', 1, original=timed out)",1
+GET,http://192.168.100.38:31518/?page_id=132,"ConnectionRefusedError(111, 'Connection refused')",11
+GET,http://192.168.100.38:31518/?page_id=131,"ConnectionRefusedError(111, 'Connection refused')",3
+GET,http://192.168.100.38:31518/,"ConnectionRefusedError(111, 'Connection refused')",16
+GET,http://192.168.100.38:31518//?page_id=129,"ConnectionRefusedError(111, 'Connection refused')",8
+GET,http://192.168.100.38:31518/?page_id=130,"ConnectionRefusedError(111, 'Connection refused')",6

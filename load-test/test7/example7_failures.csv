@@ -1,0 +1,23 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32710/?product_cat=accessories,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=accessories', 1, original=timed out)",20
+GET,http://192.168.100.38:32710/?page_id=59,"RetriesExceeded('http://192.168.100.38:32710/?page_id=59', 1, original=timed out)",21
+GET,http://192.168.100.38:32710/?post_type=product&paged=2,"ConnectionRefusedError(111, 'Connection refused')",9
+GET,http://192.168.100.38:32710/?product_cat=men&paged=2,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=men&paged=2', 1, original=timed out)",23
+GET,http://192.168.100.38:32710/?page_id=60,"RetriesExceeded('http://192.168.100.38:32710/?page_id=60', 1, original=timed out)",10
+GET,http://192.168.100.38:32710/?product_cat=women&paged=2,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,http://192.168.100.38:32710/?product_cat=men&paged=2,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,http://192.168.100.38:32710/?product_cat=women,"ConnectionRefusedError(111, 'Connection refused')",7
+GET,http://192.168.100.38:32710/?post_type=product&paged=3,"RetriesExceeded('http://192.168.100.38:32710/?post_type=product&paged=3', 1, original=timed out)",33
+GET,http://192.168.100.38:32710/?post_type=product&paged=3,"ConnectionRefusedError(111, 'Connection refused')",4
+GET,http://192.168.100.38:32710/?post_type=product&paged=2,"RetriesExceeded('http://192.168.100.38:32710/?post_type=product&paged=2', 1, original=timed out)",26
+GET,http://192.168.100.38:32710/?product_cat=men,"ConnectionRefusedError(111, 'Connection refused')",3
+GET,http://192.168.100.38:32710/?post_type=product,"RetriesExceeded('http://192.168.100.38:32710/?post_type=product', 1, original=timed out)",33
+GET,http://192.168.100.38:32710/?product_cat=women,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=women', 1, original=timed out)",22
+GET,http://192.168.100.38:32710/?page_id=60,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:32710/?page_id=59,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32710/,"ConnectionRefusedError(111, 'Connection refused')",5
+GET,http://192.168.100.38:32710/,"RetriesExceeded('http://192.168.100.38:32710/', 1, original=timed out)",40
+GET,http://192.168.100.38:32710/?product_cat=accessories,"ConnectionRefusedError(111, 'Connection refused')",5
+GET,http://192.168.100.38:32710/?product_cat=women&paged=2,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=women&paged=2', 1, original=timed out)",18
+GET,http://192.168.100.38:32710/?post_type=product,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,http://192.168.100.38:32710/?product_cat=men,"RetriesExceeded('http://192.168.100.38:32710/?product_cat=men', 1, original=timed out)",28

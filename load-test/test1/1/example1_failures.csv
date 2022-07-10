@@ -1,0 +1,6 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:30102/index.php/about/,"RetriesExceeded('http://192.168.100.38:30102/index.php/about/', 1, original=timed out)",3
+GET,http://192.168.100.38:30102/index.php/services/,"RetriesExceeded('http://192.168.100.38:30102/index.php/services/', 1, original=timed out)",2
+GET,http://192.168.100.38:30102/index.php/projects/,"RetriesExceeded('http://192.168.100.38:30102/index.php/projects/', 1, original=timed out)",2
+GET,http://192.168.100.38:30102/index.php/,"RetriesExceeded('http://192.168.100.38:30102/index.php/', 1, original=timed out)",3
+GET,http://192.168.100.38:30102/index.php/contact/,"RetriesExceeded('http://192.168.100.38:30102/index.php/contact/', 1, original=timed out)",1

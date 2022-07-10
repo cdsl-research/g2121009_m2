@@ -1,0 +1,13 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32674/index.php/shop/,"RetriesExceeded('http://192.168.100.38:32674/index.php/shop/', 1, original=timed out)",21
+GET,http://192.168.100.38:32674/index.php/shop/page/2/,"RetriesExceeded('http://192.168.100.38:32674/index.php/shop/page/2/', 1, original=timed out)",27
+GET,http://192.168.100.38:32674/index.php/shop/,"ConnectionRefusedError(111, 'Connection refused')",51
+GET,http://192.168.100.38:32674/index.php/contact/,"ConnectionRefusedError(111, 'Connection refused')",33
+GET,http://192.168.100.38:32674/index.php/,"ConnectionRefusedError(111, 'Connection refused')",103
+GET,http://192.168.100.38:32674/index.php/,"RetriesExceeded('http://192.168.100.38:32674/index.php/', 1, original=timed out)",84
+GET,http://192.168.100.38:32674/index.php/about/,"ConnectionRefusedError(111, 'Connection refused')",83
+GET,http://192.168.100.38:32674/index.php/shop/page/2/,"ConnectionRefusedError(111, 'Connection refused')",62
+GET,http://192.168.100.38:32674/index.php/my-account/,"RetriesExceeded('http://192.168.100.38:32674/index.php/my-account/', 1, original=timed out)",10
+GET,http://192.168.100.38:32674/index.php/about/,"RetriesExceeded('http://192.168.100.38:32674/index.php/about/', 1, original=timed out)",38
+GET,http://192.168.100.38:32674/index.php/my-account/,"ConnectionRefusedError(111, 'Connection refused')",32
+GET,http://192.168.100.38:32674/index.php/contact/,"RetriesExceeded('http://192.168.100.38:32674/index.php/contact/', 1, original=timed out)",13

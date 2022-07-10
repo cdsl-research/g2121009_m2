@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32604/about/,"RetriesExceeded('http://192.168.100.38:32604/about/', 1, original=timed out)",32
+GET,http://192.168.100.38:32604/all-courses/,"RetriesExceeded('http://192.168.100.38:32604/all-courses/', 1, original=timed out)",28
+GET,http://192.168.100.38:32604/index.php/,"RetriesExceeded('http://192.168.100.38:32604/index.php/', 1, original=timed out)",88
+GET,http://192.168.100.38:32604/contact/,"RetriesExceeded('http://192.168.100.38:32604/contact/', 1, original=timed out)",14

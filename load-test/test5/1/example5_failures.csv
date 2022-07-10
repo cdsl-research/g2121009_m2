@@ -1,0 +1,11 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:30210/index.php/reviews/,"RetriesExceeded('http://192.168.100.38:30210/index.php/reviews/', 1, original=timed out)",3
+GET,http://192.168.100.38:30210/index.php/contact/,"RetriesExceeded('http://192.168.100.38:30210/index.php/contact/', 1, original=timed out)",6
+GET,http://192.168.100.38:30210/index.php/,"RetriesExceeded('http://192.168.100.38:30210/index.php/', 1, original=timed out)",17
+GET,http://192.168.100.38:30210/index.php/about/,"BadStatusCode('http://192.168.100.38:30210/index.php/about/', code=500)",6954
+GET,http://192.168.100.38:30210/index.php/contact/,"BadStatusCode('http://192.168.100.38:30210/index.php/contact/', code=500)",3443
+GET,http://192.168.100.38:30210/index.php/,"BadStatusCode('http://192.168.100.38:30210/index.php/', code=500)",10502
+GET,http://192.168.100.38:30210/index.php/menu/,"BadStatusCode('http://192.168.100.38:30210/index.php/menu/', code=500)",7126
+GET,http://192.168.100.38:30210/index.php/reviews/,"BadStatusCode('http://192.168.100.38:30210/index.php/reviews/', code=500)",3541
+GET,http://192.168.100.38:30210/index.php/about/,"RetriesExceeded('http://192.168.100.38:30210/index.php/about/', 1, original=timed out)",13
+GET,http://192.168.100.38:30210/index.php/menu/,"RetriesExceeded('http://192.168.100.38:30210/index.php/menu/', 1, original=timed out)",18

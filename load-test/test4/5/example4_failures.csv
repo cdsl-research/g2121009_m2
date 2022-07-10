@@ -1,0 +1,18 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32222/index.php/shop/,"ConnectionRefusedError(111, 'Connection refused')",3
+GET,http://192.168.100.38:32222/product-category/bottoms/,"BadStatusCode('http://192.168.100.38:32222/product-category/bottoms/', code=404)",1703
+GET,http://192.168.100.38:32222/product-category/footwear/,"BadStatusCode('http://192.168.100.38:32222/product-category/footwear/', code=404)",1644
+GET,http://192.168.100.38:32222/product-category/tops/,"BadStatusCode('http://192.168.100.38:32222/product-category/tops/', code=404)",1582
+GET,http://192.168.100.38:32222/product-category/dresses/,"BadStatusCode('http://192.168.100.38:32222/product-category/dresses/', code=404)",1588
+GET,http://192.168.100.38:32222/product-category/bottoms/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32222/index.php/collection/,"ConnectionRefusedError(111, 'Connection refused')",4
+GET,http://192.168.100.38:32222/product-category/accessories/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32222/index.php/shop/page/2/,"BadStatusCode('http://192.168.100.38:32222/shop/page/2/', code=404)",3143
+GET,http://192.168.100.38:32222/product-category/footwear/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32222/index.php/new-arrivals/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32222/index.php/shop/page/2/,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:32222/index.php/new-arrivals/,"BadStatusCode('http://192.168.100.38:32222/new-arrivals/', code=404)",3133
+GET,http://192.168.100.38:32222/product-category/accessories/,"BadStatusCode('http://192.168.100.38:32222/product-category/accessories/', code=404)",1608
+GET,http://192.168.100.38:32222/index.php/,"ConnectionRefusedError(111, 'Connection refused')",9
+GET,http://192.168.100.38:32222/index.php/collection/,"BadStatusCode('http://192.168.100.38:32222/collection/', code=404)",3059
+GET,http://192.168.100.38:32222/index.php/shop/,"BadStatusCode('http://192.168.100.38:32222/shop/', code=404)",3183

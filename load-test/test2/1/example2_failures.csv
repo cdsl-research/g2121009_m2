@@ -1,0 +1,15 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32494/?page_id=1002,"BadStatusCode('http://192.168.100.38:32494/?page_id=1002', code=403)",1
+GET,http://192.168.100.38:32494/?post_type=product&paged=3,"ConnectionRefusedError(111, 'Connection refused')",16
+GET,http://192.168.100.38:32494/index.php/,"RetriesExceeded('http://192.168.100.38:32494/index.php/', 1, original=timed out)",159
+GET,http://192.168.100.38:32494/?page_id=1004,"ConnectionRefusedError(111, 'Connection refused')",7
+GET,http://192.168.100.38:32494/?post_type=product,"RetriesExceeded('http://192.168.100.38:32494/?post_type=product', 1, original=timed out)",94
+GET,http://192.168.100.38:32494/?post_type=product,"ConnectionRefusedError(111, 'Connection refused')",16
+GET,http://192.168.100.38:32494/?page_id=1002,"RetriesExceeded('http://192.168.100.38:32494/?page_id=1002', 1, original=timed out)",90
+GET,http://192.168.100.38:32494/index.php/,"ConnectionRefusedError(111, 'Connection refused')",19
+GET,http://192.168.100.38:32494/?post_type=product&paged=3,"RetriesExceeded('http://192.168.100.38:32494/?post_type=product&paged=3', 1, original=timed out)",115
+GET,http://192.168.100.38:32494/?page_id=1004,"RetriesExceeded('http://192.168.100.38:32494/?page_id=1004', 1, original=timed out)",50
+GET,http://192.168.100.38:32494/?post_type=product&paged=2,"RetriesExceeded('http://192.168.100.38:32494/?post_type=product&paged=2', 1, original=timed out)",96
+GET,http://192.168.100.38:32494/?post_type=product&paged=2,"ConnectionRefusedError(111, 'Connection refused')",12
+GET,http://192.168.100.38:32494/?post_type=product,"BadStatusCode('http://192.168.100.38:32494/?post_type=product', code=403)",1
+GET,http://192.168.100.38:32494/?page_id=1002,"ConnectionRefusedError(111, 'Connection refused')",10

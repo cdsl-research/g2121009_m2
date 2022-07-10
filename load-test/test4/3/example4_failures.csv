@@ -1,0 +1,10 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32222/product-category/bottoms/,"BadStatusCode('http://192.168.100.38:32222/product-category/bottoms/', code=404)",2049
+GET,http://192.168.100.38:32222/product-category/footwear/,"BadStatusCode('http://192.168.100.38:32222/product-category/footwear/', code=404)",2011
+GET,http://192.168.100.38:32222/product-category/tops/,"BadStatusCode('http://192.168.100.38:32222/product-category/tops/', code=404)",1940
+GET,http://192.168.100.38:32222/product-category/dresses/,"BadStatusCode('http://192.168.100.38:32222/product-category/dresses/', code=404)",1915
+GET,http://192.168.100.38:32222/index.php/shop/page/2/,"BadStatusCode('http://192.168.100.38:32222/shop/page/2/', code=404)",4075
+GET,http://192.168.100.38:32222/index.php/new-arrivals/,"BadStatusCode('http://192.168.100.38:32222/new-arrivals/', code=404)",4143
+GET,http://192.168.100.38:32222/product-category/accessories/,"BadStatusCode('http://192.168.100.38:32222/product-category/accessories/', code=404)",2054
+GET,http://192.168.100.38:32222/index.php/collection/,"BadStatusCode('http://192.168.100.38:32222/collection/', code=404)",3947
+GET,http://192.168.100.38:32222/index.php/shop/,"BadStatusCode('http://192.168.100.38:32222/shop/', code=404)",4034

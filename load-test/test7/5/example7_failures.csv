@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:30304/?product_cat=women,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:30304/?product_cat=men,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:30304/?post_type=product,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:30304/?page_id=60,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:30304/?product_cat=men&paged=2,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:30304/?post_type=product&paged=3,"ConnectionRefusedError(111, 'Connection refused')",1

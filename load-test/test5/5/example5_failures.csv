@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:30210/index.php/reviews/,"ConnectionRefusedError(111, 'Connection refused')",4
+GET,http://192.168.100.38:30210/index.php/,"ConnectionRefusedError(111, 'Connection refused')",5
+GET,http://192.168.100.38:30210/index.php/about/,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:30210/index.php/menu/,"ConnectionRefusedError(111, 'Connection refused')",4

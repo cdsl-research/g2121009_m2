@@ -1,0 +1,8 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32604/about/,"RetriesExceeded('http://192.168.100.38:32604/about/', 1, original=timed out)",18
+GET,http://192.168.100.38:32604/contact/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32604/all-courses/,"RetriesExceeded('http://192.168.100.38:32604/all-courses/', 1, original=timed out)",24
+GET,http://192.168.100.38:32604/all-courses/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32604/index.php/,"RetriesExceeded('http://192.168.100.38:32604/index.php/', 1, original=timed out)",62
+GET,http://192.168.100.38:32604/index.php/,"ConnectionRefusedError(111, 'Connection refused')",4
+GET,http://192.168.100.38:32604/contact/,"RetriesExceeded('http://192.168.100.38:32604/contact/', 1, original=timed out)",9

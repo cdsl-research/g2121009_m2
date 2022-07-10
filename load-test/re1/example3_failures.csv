@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32674/index.php/shop/,"RetriesExceeded('http://192.168.100.38:32674/index.php/shop/', 1, original=timed out)",11
+GET,http://192.168.100.38:32674/index.php/shop/page/2/,"RetriesExceeded('http://192.168.100.38:32674/index.php/shop/page/2/', 1, original=timed out)",4
+GET,http://192.168.100.38:32674/index.php/,"RetriesExceeded('http://192.168.100.38:32674/index.php/', 1, original=timed out)",9
+GET,http://192.168.100.38:32674/index.php/my-account/,"RetriesExceeded('http://192.168.100.38:32674/index.php/my-account/', 1, original=timed out)",3
+GET,http://192.168.100.38:32674/index.php/about/,"RetriesExceeded('http://192.168.100.38:32674/index.php/about/', 1, original=timed out)",8
+GET,http://192.168.100.38:32674/index.php/contact/,"RetriesExceeded('http://192.168.100.38:32674/index.php/contact/', 1, original=timed out)",2

@@ -1,0 +1,10 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:31299/index.php/collection/,"RetriesExceeded('http://192.168.100.38:31299/index.php/collection/', 1, original=timed out)",13
+GET,http://192.168.100.38:31299/index.php/new-arrivals/,"RetriesExceeded('http://192.168.100.38:31299/index.php/new-arrivals/', 1, original=timed out)",7
+GET,http://192.168.100.38:31299/index.php/,"RetriesExceeded('http://192.168.100.38:31299/index.php/', 1, original=timed out)",28
+GET,http://192.168.100.38:31299/product-category/tops/,"RetriesExceeded('http://192.168.100.38:31299/product-category/tops/', 1, original=timed out)",1
+GET,http://192.168.100.38:31299/index.php/shop/page/2/,"RetriesExceeded('http://192.168.100.38:31299/index.php/shop/page/2/', 1, original=timed out)",3
+GET,http://192.168.100.38:31299/index.php/shop/,"RetriesExceeded('http://192.168.100.38:31299/index.php/shop/', 1, original=timed out)",1
+GET,http://192.168.100.38:31299/product-category/footwear/,"RetriesExceeded('http://192.168.100.38:31299/product-category/footwear/', 1, original=timed out)",1
+GET,http://192.168.100.38:31299/product-category/dresses/,"RetriesExceeded('http://192.168.100.38:31299/product-category/dresses/', 1, original=timed out)",1
+GET,http://192.168.100.38:31299/product-category/accessories/,"RetriesExceeded('http://192.168.100.38:31299/product-category/accessories/', 1, original=timed out)",1

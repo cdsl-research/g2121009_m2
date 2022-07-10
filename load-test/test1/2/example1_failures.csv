@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:31518/?page_id=130,"BadStatusCode('http://192.168.100.38:31518/?page_id=130', code=503)",11
+GET,http://192.168.100.38:31518//?page_id=129,"BadStatusCode('http://192.168.100.38:31518//?page_id=129', code=503)",15
+GET,http://192.168.100.38:31518/?page_id=132,"BadStatusCode('http://192.168.100.38:31518/?page_id=132', code=503)",25
+GET,http://192.168.100.38:31518//?page_id=129,"BadStatusCode('http://192.168.100.38:31518/?page_id=129', code=503)",1
+GET,http://192.168.100.38:31518/?page_id=131,"BadStatusCode('http://192.168.100.38:31518/?page_id=131', code=503)",22
+GET,http://192.168.100.38:31518/,"BadStatusCode('http://192.168.100.38:31518/', code=503)",18

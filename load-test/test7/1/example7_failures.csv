@@ -1,0 +1,23 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:30331/product-category/men/page/2/,"ConnectionRefusedError(111, 'Connection refused')",16
+GET,http://192.168.100.38:30331/about/,"RetriesExceeded('http://192.168.100.38:30331/about/', 1, original=timed out)",31
+GET,http://192.168.100.38:30331/about/,"ConnectionRefusedError(111, 'Connection refused')",9
+GET,http://192.168.100.38:30331/store/page/2/,"RetriesExceeded('http://192.168.100.38:30331/store/page/2/', 1, original=timed out)",46
+GET,http://192.168.100.38:30331/product-category/women/page/2/,"ConnectionRefusedError(111, 'Connection refused')",15
+GET,http://192.168.100.38:30331/contact-us/,"RetriesExceeded('http://192.168.100.38:30331/contact-us/', 1, original=timed out)",30
+GET,http://192.168.100.38:30331/index.php/,"RetriesExceeded('http://192.168.100.38:30331/index.php/', 1, original=timed out)",84
+GET,http://192.168.100.38:30331/product-category/men/,"RetriesExceeded('http://192.168.100.38:30331/product-category/men/', 1, original=timed out)",34
+GET,http://192.168.100.38:30331/product-category/women/page/2/,"RetriesExceeded('http://192.168.100.38:30331/product-category/women/page/2/', 1, original=timed out)",56
+GET,http://192.168.100.38:30331/store/,"RetriesExceeded('http://192.168.100.38:30331/store/', 1, original=timed out)",58
+GET,http://192.168.100.38:30331/product-category/men/,"ConnectionRefusedError(111, 'Connection refused')",14
+GET,http://192.168.100.38:30331/product-category/accessories/,"ConnectionRefusedError(111, 'Connection refused')",13
+GET,http://192.168.100.38:30331/contact-us/,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,http://192.168.100.38:30331/store/page/2/,"ConnectionRefusedError(111, 'Connection refused')",16
+GET,http://192.168.100.38:30331/product-category/women/,"ConnectionRefusedError(111, 'Connection refused')",13
+GET,http://192.168.100.38:30331/product-category/accessories/,"RetriesExceeded('http://192.168.100.38:30331/product-category/accessories/', 1, original=timed out)",55
+GET,http://192.168.100.38:30331/store/page/3/,"RetriesExceeded('http://192.168.100.38:30331/store/page/3/', 1, original=timed out)",45
+GET,http://192.168.100.38:30331/index.php/,"ConnectionRefusedError(111, 'Connection refused')",22
+GET,http://192.168.100.38:30331/store/page/3/,"ConnectionRefusedError(111, 'Connection refused')",23
+GET,http://192.168.100.38:30331/product-category/women/,"RetriesExceeded('http://192.168.100.38:30331/product-category/women/', 1, original=timed out)",47
+GET,http://192.168.100.38:30331/product-category/men/page/2/,"RetriesExceeded('http://192.168.100.38:30331/product-category/men/page/2/', 1, original=timed out)",55
+GET,http://192.168.100.38:30331/store/,"ConnectionRefusedError(111, 'Connection refused')",21

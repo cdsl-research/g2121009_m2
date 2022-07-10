@@ -1,0 +1,18 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:31802/?page_id=131,"RetriesExceeded('http://192.168.100.38:31802/?page_id=131', 1, original=timed out)",9
+GET,http://192.168.100.38:31802/?page_id=129,"RetriesExceeded('http://192.168.100.38:31802/?page_id=129', 1, original=timed out)",11
+GET,http://192.168.100.38:31802/?page_id=132,"BadStatusCode('http://192.168.100.38:31802/?page_id=132', code=503)",95
+GET,http://192.168.100.38:31802/?page_id=130,"BadStatusCode('http://192.168.100.38:31802/?page_id=130', code=500)",1
+GET,http://192.168.100.38:31802/,"RetriesExceeded('http://192.168.100.38:31802/', 1, original=timed out)",18
+GET,http://192.168.100.38:31802/,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,http://192.168.100.38:31802/?page_id=129,"BadStatusCode('http://192.168.100.38:31802/?page_id=129', code=503)",97
+GET,http://192.168.100.38:31802/?page_id=129,"ConnectionRefusedError(111, 'Connection refused')",5
+GET,http://192.168.100.38:31802/?page_id=132,"ConnectionRefusedError(111, 'Connection refused')",6
+GET,http://192.168.100.38:31802/?page_id=130,"ConnectionRefusedError(111, 'Connection refused')",3
+GET,http://192.168.100.38:31802/,"BadStatusCode('http://192.168.100.38:31802/', code=503)",153
+GET,http://192.168.100.38:31802/?page_id=130,"BadStatusCode('http://192.168.100.38:31802/?page_id=130', code=503)",84
+GET,http://192.168.100.38:31802/?page_id=130,"RetriesExceeded('http://192.168.100.38:31802/?page_id=130', 1, original=timed out)",11
+GET,http://192.168.100.38:31802/,"BadStatusCode('http://192.168.100.38:31802/', code=500)",1
+GET,http://192.168.100.38:31802/?page_id=131,"ConnectionRefusedError(111, 'Connection refused')",3
+GET,http://192.168.100.38:31802/?page_id=131,"BadStatusCode('http://192.168.100.38:31802/?page_id=131', code=503)",104
+GET,http://192.168.100.38:31802/?page_id=132,"RetriesExceeded('http://192.168.100.38:31802/?page_id=132', 1, original=timed out)",10

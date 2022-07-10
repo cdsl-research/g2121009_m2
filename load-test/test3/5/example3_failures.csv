@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+GET,http://192.168.100.38:32324/index.php/,"ConnectionRefusedError(111, 'Connection refused')",2
+GET,http://192.168.100.38:32324/index.php/shop/,"ConnectionRefusedError(111, 'Connection refused')",1
+GET,http://192.168.100.38:32324/index.php/about/,"ConnectionRefusedError(111, 'Connection refused')",1
