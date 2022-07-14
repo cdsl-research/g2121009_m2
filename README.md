@@ -1,6 +1,4 @@
-# g2121009_m2
-
-# re-location
+# recation
 K8s Podの再配置プログラム
 
 ### load-test
